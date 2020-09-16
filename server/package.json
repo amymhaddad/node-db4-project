@@ -1,0 +1,17 @@
+{
+  "name": "ingredients",
+  "version": "1.0.0",
+  "description": "ingredients_project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "server": "nodemon index.js"
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.21.5",
+    "nodemon": "^2.0.4",
+    "sqlite3": "^5.0.0"
+  }
+}
